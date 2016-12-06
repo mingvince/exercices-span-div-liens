@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <p>
+  Le système de transport urbain permet aux habitants du <big><a href="https://fr.wikipedia.org/wiki/%C3%89vreux" target=_blank><span class="vert">Grand Évreux</a> </big></span> de se déplacer toute l'année. Ce réseau, géré par<span class="vert"> Trans Urbain</span>, dessert 8 communes (<span>Aviron, Angerville-la-Campagne, Arnières-sur-Iton</span>, Évreux, <span>Gravigny, Guichainville</span>, <span class="violet">Normanville</span> et <span class="violet">Saint-Sébastien</span>) sur les trente-sept que comporte l'agglomération.
+  </p>
+  </body>
+</html>
